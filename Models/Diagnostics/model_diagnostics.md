@@ -1,4 +1,4 @@
-### Updated LANDIS-II NECN diagnostics from calibration ###
+### Updated LANDIS-II NECN flux tower model diagnostics ###
 
 I set up the updated model to run using a single cell representing the Coweeta flux tower. To check model behavior, I ran the model for 50 years using average climate. 
 
@@ -41,6 +41,10 @@ I set up the updated model to run using a single cell representing the Coweeta f
 
 
 
+Boggs, J. L., McNulty, S. G., Gavazzi, M. J., & Myers, J. M. (2005). Tree growth, foliar chemistry, and nitrogen cycling across a nitrogen deposition gradient in southern appalachian deciduous forests. Canadian Journal of Forest Research, 35(8), 1901-1913. doi:10.1139/x05-128
 
+Bolstad, P. V., Vose, J. M., & McNulty, S. G. (2001). Forest productivity, leaf area, and terrain in southern appalachian deciduous forests. Forest Science, 47, 419-427. 
+
+Oishi, A. C., Miniat, C. F., Novick, K. A., Brantley, S. T., Vose, J. M., & Walker, J. T. (2018). Warmer temperatures reduce net carbon uptake, but do not affect water use, in a mature southern appalachian forest. Agricultural and Forest Meteorology, 252, 269-282. doi:10.1016/j.agrformet.2018.01.011
 
 
