@@ -26,4 +26,4 @@ I set up the updated model to run using a single cell representing the Coweeta f
     - Initial AGB from plot data surrounding the flux tower. 
 
 
-![My Image](../Models/Diagnostics/Figures/somtc.png)
+![My Image](Figures/somtc.png)
