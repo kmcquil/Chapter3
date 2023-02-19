@@ -1,4 +1,4 @@
-### Updated LANDIS-II NECN diagnostics from calibration###
+### Updated LANDIS-II NECN diagnostics from calibration ###
 
 I set up the updated model to run using a single cell representing the Coweeta flux tower. To check model behavior, I ran the model for 50 years using average climate. 
 
@@ -26,4 +26,4 @@ I set up the updated model to run using a single cell representing the Coweeta f
     - Initial AGB from plot data surrounding the flux tower. 
 
 
-<img title="somtc" alt="Alt text" src="../Diagnostics/Figures/somtc.png">
+![My Image](../Diagnostics/Figures/somtc.png)
